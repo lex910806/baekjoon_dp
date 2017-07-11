@@ -8,9 +8,9 @@
 <h3>java를 이용한 BaekJoon 알고리즘 풀이</h3>
 <h4><a href="https://www.acmicpc.net">https://www.acmicpc.net</a></h4>
 </div>
-<hr/><hr/>
+<hr/>
 <ul>	
-<li>1,2,3 더하기</li>
+<li><a href="1,2,3\ 더하기/Main.java">1,2,3 더하기</a></li>
 <li>숫자삼각형</li>
 <li>2xn 타일링</li>
 <li>연속합</li>
